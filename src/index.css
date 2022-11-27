@@ -43,3 +43,13 @@ body {
 .absolute {
   position: absolute;
 }
+
+.centered {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.cursor {
+  color: rgba(19, 19, 19, 0.4);
+}
